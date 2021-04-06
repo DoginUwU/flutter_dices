@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="800" height="200" src="https://github.com/cribeiroduarte/imagens-curso-flutter/blob/main/banner_polimorfismo.png">
+  <img width="800" height="200" src="https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/imagens/banner_polimorfismo.png">
 </p>
 
 # Dadoos 🎲
@@ -13,7 +13,7 @@ O objetivo desse módulo é apresentar os principais conceitos de programação 
 Vamos fazer um aplicativo para lançar dados no qual você joga os dados ao pressioná-los na tela.
 
 <p align="center">
-  <img width="219" height="439" src="https://github.com/cribeiroduarte/imagens-curso-flutter/blob/main/app-dados-gif.gif">
+  <img width="219" height="439" src="https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/gifs/app-dados-gif.gif">
 </p>
 
 ## O que nós iremos aprender?
